@@ -97,6 +97,7 @@ const App = () => {
           <a href="#servicios" className="hover:text-blue-600 transition">Servicios</a>
           {/*<a href="#equipo" className="hover:text-blue-600 transition">Equipo</a>*/}
           <a href="#testimonios" className="hover:text-blue-600 transition">Opiniones</a>
+          <a href="#contacto" className="hover:text-blue-600 transition">Contacto</a>
         </div>
 
         <a href={whatsappLink} target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 rounded-xl font-bold transition flex items-center gap-2 shadow-lg shadow-blue-200">
