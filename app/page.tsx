@@ -95,7 +95,7 @@ const App = () => {
         
         <div className="hidden md:flex gap-8 font-bold text-sm text-gray-500 uppercase tracking-widest">
           <a href="#servicios" className="hover:text-blue-600 transition">Servicios</a>
-          <a href="#equipo" className="hover:text-blue-600 transition">Equipo</a>
+          {/*<a href="#equipo" className="hover:text-blue-600 transition">Equipo</a>*/}
           <a href="#testimonios" className="hover:text-blue-600 transition">Opiniones</a>
         </div>
 
